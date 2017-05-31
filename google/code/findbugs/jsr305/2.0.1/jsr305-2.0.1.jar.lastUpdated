@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 26 21:53:07 IST 2017
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.google.code.findbugs\:jsr305\:jar\:2.0.1 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: http\://repo.spring.io/libs-snapshot-local/com/google/code/findbugs/jsr305/2.0.1/jsr305-2.0.1.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1495815774894
+http\://repo.spring.io/libs-milestone-local/.error=
+http\://repo.spring.io/libs-milestone-local/.lastUpdated=1495815779738
+https\://repo.maven.apache.org/maven2/.lastUpdated=1495815787425

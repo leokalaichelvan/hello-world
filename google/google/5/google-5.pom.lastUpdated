@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 26 21:30:04 IST 2017
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.google\:google\:pom\:5 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: http\://repo.spring.io/libs-snapshot-local/com/google/google/5/google-5.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+http\://repo.spring.io/libs-release-local/.error=
+http\://repo.spring.io/libs-milestone-local/.lastUpdated=1495814401425
+http\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1495814400816
+https\://repo.maven.apache.org/maven2/.lastUpdated=1495814403988
+http\://repo.spring.io/libs-release-local/.lastUpdated=1495814403066

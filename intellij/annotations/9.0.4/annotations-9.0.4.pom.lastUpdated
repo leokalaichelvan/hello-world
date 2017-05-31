@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 26 21:46:43 IST 2017
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.intellij\:annotations\:pom\:9.0.4 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: http\://repo.spring.io/libs-snapshot-local/com/intellij/annotations/9.0.4/annotations-9.0.4.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1495815400798
+http\://repo.spring.io/libs-milestone-local/.error=
+http\://repo.spring.io/libs-milestone-local/.lastUpdated=1495815402282
+https\://repo.maven.apache.org/maven2/.lastUpdated=1495815403017
