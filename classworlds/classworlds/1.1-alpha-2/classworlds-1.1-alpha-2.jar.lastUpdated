@@ -1,0 +1,7 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 26 21:47:44 IST 2017
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact classworlds\:classworlds\:jar\:1.1-alpha-2 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: http\://repo.spring.io/libs-snapshot-local/classworlds/classworlds/1.1-alpha-2/classworlds-1.1-alpha-2.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1495815443470
+http\://repo.spring.io/libs-milestone-local/.error=
+http\://repo.spring.io/libs-milestone-local/.lastUpdated=1495815447017
+https\://repo.maven.apache.org/maven2/.lastUpdated=1495815464236
