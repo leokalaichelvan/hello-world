@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 26 21:32:33 IST 2017
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.amazonaws\:aws-java-sdk-ec2\:pom\:1.11.18 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: http\://repo.spring.io/libs-snapshot-local/com/amazonaws/aws-java-sdk-ec2/1.11.18/aws-java-sdk-ec2-1.11.18.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+http\://repo.spring.io/libs-release-local/.error=Could not transfer artifact com.amazonaws\:aws-java-sdk-ec2\:pom\:1.11.18 from/to spring-releases (http\://repo.spring.io/libs-release-local)\: Connect to repo.spring.io\:80 [repo.spring.io/35.186.232.213] failed\: Connection timed out\: connect
+http\://repo.spring.io/libs-milestone-local/.lastUpdated=1495814434347
+http\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1495814433144
+https\://repo.maven.apache.org/maven2/.lastUpdated=1495814553739
+@default-spring-releases-http\://repo.spring.io/libs-release-local/.lastUpdated=1495814455363

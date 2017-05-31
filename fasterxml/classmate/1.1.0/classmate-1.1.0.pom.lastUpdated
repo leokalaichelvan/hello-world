@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 26 21:26:37 IST 2017
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.fasterxml\:classmate\:pom\:1.1.0 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: http\://repo.spring.io/libs-snapshot-local/com/fasterxml/classmate/1.1.0/classmate-1.1.0.pom. Return code is\: 409 , ReasonPhrase\:Conflict.
+http\://repo.spring.io/libs-release-local/.error=
+http\://repo.spring.io/libs-milestone-local/.lastUpdated=1495814196876
+http\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1495814195001
+https\://repo.maven.apache.org/maven2/.lastUpdated=1495814197907
+http\://repo.spring.io/libs-release-local/.lastUpdated=1495814197298

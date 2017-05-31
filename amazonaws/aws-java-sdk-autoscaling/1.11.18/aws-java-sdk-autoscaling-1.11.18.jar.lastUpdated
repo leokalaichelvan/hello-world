@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 26 21:45:06 IST 2017
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.amazonaws\:aws-java-sdk-autoscaling\:jar\:1.11.18 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: http\://repo.spring.io/libs-snapshot-local/com/amazonaws/aws-java-sdk-autoscaling/1.11.18/aws-java-sdk-autoscaling-1.11.18.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+http\://repo.spring.io/libs-release-local/.error=
+http\://repo.spring.io/libs-milestone-local/.lastUpdated=1495814902234
+http\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1495814874327
+https\://repo.maven.apache.org/maven2/.lastUpdated=1495815306938
+http\://repo.spring.io/libs-release-local/.lastUpdated=1495814975578

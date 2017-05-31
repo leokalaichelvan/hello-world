@@ -1,0 +1,9 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri May 26 21:45:07 IST 2017
+http\://repo.spring.io/libs-snapshot-local/.error=Could not transfer artifact com.fasterxml.jackson.core\:jackson-annotations\:jar\:2.6.7 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot-local)\: Failed to transfer file\: http\://repo.spring.io/libs-snapshot-local/com/fasterxml/jackson/core/jackson-annotations/2.6.7/jackson-annotations-2.6.7.jar. Return code is\: 409 , ReasonPhrase\:Conflict.
+http\://repo.spring.io/libs-release-local/.error=
+http\://repo.spring.io/libs-milestone-local/.lastUpdated=1495814902281
+http\://repo.spring.io/libs-milestone-local/.error=
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot-local/.lastUpdated=1495814874405
+https\://repo.maven.apache.org/maven2/.lastUpdated=1495815307016
+http\://repo.spring.io/libs-release-local/.lastUpdated=1495814975624
